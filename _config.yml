@@ -4,6 +4,9 @@ description: >-
   复杂，源于简单。
   一叶一世界，一树一菩提。
   阳光普照，万物生长，充满希望。
+
+locale: zh-CN
+
 baseurl: ""
 url: "https://suyuxp.github.io"
 github_username:  suyuxp

@@ -1,5 +1,12 @@
 # Theme text and labels
 
+zh: &DEFAULT_ZH
+  menu_label: "菜单"
+  powered_by: "版权所有, "
+zh-CN:
+  <<: *DEFAULT_ZH
+
+
 # English (default)
 # -----------------
 en: &DEFAULT_EN
