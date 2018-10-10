@@ -9,9 +9,8 @@ url: "https://suyuxp.github.io"
 github_username:  suyuxp
 
 markdown: kramdown
-remote_theme: "mmistakes/so-simple-theme"
+remote_theme: "suyuxp/so-simple-theme"
 
-# theme: minima
 plugins:
   - jekyll-feed
 
