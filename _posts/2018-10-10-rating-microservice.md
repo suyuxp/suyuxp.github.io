@@ -51,12 +51,11 @@ categories: 微服务 AWS
 
 ### 架构
 
-{% plantuml %}
-[First] - [Second]
-[First] - [Second]
-{% endplantuml %}
-
 ### 端点
+
+#### 轮次
+
+
 
 ### 依赖
 
