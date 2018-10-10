@@ -14,9 +14,12 @@ github_username:  suyuxp
 
 markdown: kramdown
 remote_theme: "suyuxp/so-simple-theme"
+permalink: /:year/:month/:day/:title:output_ext
 
 plugins:
   - jekyll-feed
+  - jekyll-plantuml
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
