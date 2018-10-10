@@ -51,6 +51,9 @@ categories: 微服务 AWS
 
 ### 架构
 
+![](/assets/image/75.jpg)
+
+
 ### 端点
 
 #### 轮次

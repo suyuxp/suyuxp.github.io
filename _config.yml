@@ -6,7 +6,6 @@ description: >-
   阳光普照，万物生长，充满希望。
 
 locale: zh-CN
-language: zh-Hans
 date_format: "%Y-%m-%d"
 
 baseurl: ""
@@ -14,10 +13,8 @@ url: "https://suyuxp.github.io"
 github_username:  suyuxp
 
 markdown: kramdown
-# remote_theme: "suyuxp/so-simple-theme"
-theme: next
+remote_theme: "suyuxp/so-simple-theme"
 permalink: /:year/:month/:day/:title:output_ext
-
 
 plugins:
   - jekyll-feed
