@@ -3,6 +3,14 @@
 zh: &DEFAULT_ZH
   menu_label: "菜单"
   powered_by: "版权所有, "
+  categories: "分类"
+  tags: "标签"
+  table_of_contents: "目录"
+  next: "下一篇"
+  previous: "上一篇"
+  share: "分享"
+  newer: "更新的"
+  older: "历史的"
 zh-CN:
   <<: *DEFAULT_ZH
 
