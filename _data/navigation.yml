@@ -1,2 +1,14 @@
 - title: 首页
   url: /
+- title: 文章
+  url: /posts/
+- title: 分类
+  url: /categories/
+- title: 标签
+  url: /tags/
+# - title: Recipes
+#   url: /recipes/
+- title: 查找
+  url: /search/
+- title: 软创平台
+  url: https://cs.gugud.com
