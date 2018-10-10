@@ -6,6 +6,7 @@ description: >-
   阳光普照，万物生长，充满希望。
 
 locale: zh-CN
+date_format: "%Y-%m-%d"
 
 baseurl: ""
 url: "https://suyuxp.github.io"
