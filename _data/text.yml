@@ -11,6 +11,7 @@ zh: &DEFAULT_ZH
   share: "分享"
   newer: "更新的"
   older: "历史的"
+  read_more: "阅读全文"
 zh-CN:
   <<: *DEFAULT_ZH
 
