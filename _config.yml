@@ -1,15 +1,17 @@
-title: 软件盖亚
+title: 软件丛林
 email: suyu@intermaker.cn
-description: >- # this means to ignore newlines until "baseurl:"
-  一叶一世界，一树一菩提。复杂世界，源于简单。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+description: >-
+  复杂，源于简单。
+  一叶一世界，一树一菩提。
+  阳光普照，万物生长，充满希望。
+baseurl: ""
+url: "https://suyuxp.github.io"
+github_username:  suyuxp
 
-# Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/so-simple-theme"
+
+# theme: minima
 plugins:
   - jekyll-feed
 
